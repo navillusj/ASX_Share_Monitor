@@ -2,6 +2,22 @@
 
 The ASX Share Monitor is a desktop application built with Python and Tkinter (using the sv_ttk theme) that provides real-time monitoring and historical price charting for Australian Stock Exchange (ASX) shares. It fetches data using the yfinance library and uses Matplotlib for interactive chart visualization, complete with timezone handling and robust sorting features.
 
+## ⚠️ Disclaimer and Limitation of Liability
+BY USING THIS APPLICATION, YOU EXPRESSLY AGREE THAT YOUR USE IS AT YOUR SOLE RISK.
+
+This software is provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+The ASX Share Monitor is intended for informational and educational purposes only. The data provided is sourced from third-party APIs (yfinance) and should not be considered financial advice, investment recommendation, or a solicitation to buy or sell any financial instrument.
+
+Limitation of Liability
+In no event shall the author or copyright holders of this application be liable for any claims, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+Data Accuracy: The accuracy of the data cannot be guaranteed. Data may be delayed, inaccurate, incomplete, or affected by API downtime.
+
+No Financial Advice: You should consult with a qualified professional financial advisor before making any investment decisions.
+
+Own Risk: Any decisions made based on the information or charts presented by this application are solely the user's responsibility.
+
 ## ✨ Key Features
 Real-time Data: Fetches current price, open price, daily change, and hourly change for ASX-listed tickers (e.g., BHP.AX).
 
